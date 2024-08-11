@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392985921514",
+    "project_id": "rn-noti-a8da1",
+    "storage_bucket": "rn-noti-a8da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392985921514:android:a06de7f9dedcba885f9493",
+        "android_client_info": {
+          "package_name": "com.sophie_soe.notiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBGiSSOKxl1SbAXBd-w-MHksDvBNZcmQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
